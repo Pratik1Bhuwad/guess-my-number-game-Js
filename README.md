@@ -25,7 +25,7 @@ JavaScript → Game logic and interactivity
 🔗 Live Demo ()
 
 📸 Screenshots
-(js_P2.PNG)
+![Project Screenshot](js_P2.PNG)  
 
 📂 Project Structure
 
