@@ -11,14 +11,18 @@ The player enters a guess in the input box.
 The game provides feedback:
 
 📉 Too Low! → Try a higher number.
+
 📈 Too High! → Try a lower number.
+
 ✅ Correct! → You guessed the right number! 🎉
 
 The player can reset the game anytime to play again.
 
 🔧 Technologies Used
 HTML → Structure of the game
+
 CSS → Styling and layout
+
 JavaScript → Game logic and interactivity
 
 🖥️ Demo
